@@ -14,6 +14,10 @@ Feel also free to use the discussion forum to discuss with your peers!
 
 In [Slides And Infos](https://github.com/Hackathon-X-GameJam/Slides-And-Infos) you can find anyting we ever used at the Event!
 
+
+## Winners of past Hackathons
+
+2024.1: [UniNav](https://github.com/Hackathon-X-GameJam/UniNav)
 <!--
 
 **Here are some ideas to get you started:**
