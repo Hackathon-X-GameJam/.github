@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+We are the Hackathon X GameJam Organization. 
+This is a place to discuss and share your projects created at the Sparrows Ulm Hackathon! 
+
+## Contribution 👩‍💻
+
+Any Participant of the event is free to share their projects in a dedicated repository! 
+Don't worry about integration tests or anything else, just code something that somehow works and share it with us! 
+
+Feel also free to use the discussion forum to discuss with your peers! 
+
+## Resources
+
+In [Slides And Infos](https://github.com/Hackathon-X-GameJam/Slides-And-Infos) you can find anyting we ever used at the Event!
+
 <!--
 
 **Here are some ideas to get you started:**
